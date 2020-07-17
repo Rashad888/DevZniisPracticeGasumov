@@ -1,0 +1,2 @@
+include ':practiceproject'
+rootProject.name = "PracticeProject"
